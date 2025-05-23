@@ -4,7 +4,7 @@ import random
 
 # Set up the screen
 screen = turtle.Screen()
-screen.bgcolor("black")
+screen.bgcolor("white")
 screen.title("Lovely Hannah")
 
 # Create turtle for the heart
@@ -83,4 +83,4 @@ for pos in positions:
     sparkle.dot(10)
 
 # Keep the window open until clicked
-screen.exitonclick()
+screen.exitonclick()>
