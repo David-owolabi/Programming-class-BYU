@@ -12,3 +12,27 @@ formatted_date = current_date_time.strftime("%Y-%m-%d")
 with open("log_data.txt", "a") as file:
   file.write(f"\nDate: {formatted_date}\nTire Width: {tire_width}\nAspect ratio: {aspect_ratio}\nWheel diameter: {wheel_diameter}\nTire volume: {tire_volume:.2f}\n")
   print("Data successfully added to log_data.txt")
+
+  if tire_width == 225 and aspect_ratio == 135 and wheel_diameter == 15:
+    price = 108.64
+    print(f"Price of the tire is: ${price}")
+  elif tire_width == 235 and aspect_ratio == 176.25 and wheel_diameter == 15:
+    price = 80
+    print(f"Price of the tire is: ${price}")
+  elif tire_width == 205 and aspect_ratio == 112.75 and wheel_diameter == 16:
+    price = 114.50
+    print(f"Price of the tire is: ${price}")
+  elif tire_width == 195 and aspect_ratio == 107.25 and wheel_diameter == 16:
+    price = 94.50
+    print(f"Price of the tire is: ${price}")
+  else:
+    price = None
+    print("Tire price not found in the database.")
+
+buy_tires = input("Do you want to buy tires with these specifications? (yes/no): ").strip().lower()
+if buy_tires == "yes" and price != None:
+  contact_information = input("Please provide your phone number: ")
+  with open("log_data.txt", "a") as file:
+    file.write(f"Customer Phone Number: {contact_information}\n")
+    print("Thank you for your purchase! We will contact you soon.")
+  
