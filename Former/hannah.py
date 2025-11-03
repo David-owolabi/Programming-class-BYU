@@ -83,4 +83,4 @@ for pos in positions:
     sparkle.dot(10)
 
 # Keep the window open until clicked
-screen.exitonclick()>
+screen.exitonclick()
