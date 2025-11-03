@@ -1,0 +1,14 @@
+
+Date: 2025-11-03
+Tire Width: 225
+Aspect ratio: 135.0
+Wheel diameter: 15
+Tire volume: 147.02
+Customer Phone Number: 080807667738
+
+Date: 2025-11-03
+Tire Width: 225
+Aspect ratio: 135.00
+Wheel diameter: 15
+Tire volume: 147.02
+Customer Phone Number: 08080767738
