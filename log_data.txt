@@ -1,0 +1,14 @@
+Date : Tire Width: 185/n Aspect ratio: 50.0/n, Wheel diameter: 14/n, and the Tire volume: 24.09Date: 2025-11-04
+, Tire Width: 185
+ Aspect ratio: 50.0
+, Wheel diameter: 14
+, and the Tire volume: 24.09Date: 2025-11-04
+Tire Width: 185
+ Aspect ratio: 50.0
+Wheel diameter: 14
+Tire volume: 24.09
+Date: 2025-11-04
+Tire Width: 185
+Aspect ratio: 50.0
+Wheel diameter: 14
+Tire volume: 24.09
