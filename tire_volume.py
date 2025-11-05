@@ -1,3 +1,5 @@
+#Author: David Owolabi
+# Enhancement: Adds tire price lookup and purchase option with contact information recording.
 from datetime import datetime 
 import math
 tire_width = int(input("Enter the width of the tire in mm (ex 205): "))

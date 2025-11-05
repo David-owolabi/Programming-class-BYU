@@ -12,3 +12,9 @@ Aspect ratio: 135.00
 Wheel diameter: 15
 Tire volume: 147.02
 Customer Phone Number: 08080767738
+
+Date: 2025-11-05
+Tire Width: 300
+Aspect ratio: 200.00
+Wheel diameter: 5
+Tire volume: 411.11
